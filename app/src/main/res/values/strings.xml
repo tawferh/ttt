@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LAM</string>
+    <string name="animation_desc">Анимация, показывающая изображения интересных мест</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Поиск</string>
+    <string name="title_dashboard">Избранное</string>
+
+    <string name="title_activity_page">PageActivity</string>
+    <!-- Добавьте другие строки по мере необходимости -->
+</resources>
