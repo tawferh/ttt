@@ -11,5 +11,11 @@
         android:icon="@drawable/ic_dashboard_black_24dp"
         android:title="Избранное" />
 
+    <item
+        android:id="@+id/navigation_places"
+        android:icon="@drawable/ic_places"
+        android:title="@string/title_places" />
+
+
 
 </menu>
