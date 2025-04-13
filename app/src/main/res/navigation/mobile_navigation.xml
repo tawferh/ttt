@@ -16,6 +16,7 @@
         android:name="com.example.views.ui.dashboard.DashboardFragment"
         android:label="@string/title_dashboard"
         tools:layout="@layout/fragment_dashboard" />
+
     <fragment
         android:id="@+id/navigation_places"
         android:name="com.example.views.ui.places.PlacesFragment"
