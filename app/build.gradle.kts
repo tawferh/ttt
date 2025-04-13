@@ -47,4 +47,9 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+
+    // Облегченная библиотека, содержит только карту, слой пробок,
+    // LocationManager, UserLocationLayer
+    // и возможность скачивать офлайн-карты (только в платной версии).
+    implementation("com.yandex.android:maps.mobile:4.5.0-lite")
 }

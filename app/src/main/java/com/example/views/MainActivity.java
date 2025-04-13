@@ -37,22 +37,10 @@ public class MainActivity extends AppCompatActivity {
                 frameAnimation.start();
             }
         });
-
-
-
     }
-
 
     public void startActivity(View v) {
-
-
         Intent intent = new Intent(this, MainActivity2.class);
         startActivity(intent);
-
-
     }
-
-
-
-
 }
