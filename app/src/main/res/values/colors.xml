@@ -5,4 +5,5 @@
     <color name="teal_700">#018786</color> <!-- темный вариант второго цвета -->
     <color name="white">#FFFFFF</color> <!-- цвет белый -->
     <color name="black">#000000</color> <!-- цвет черный -->
+    <color name="lam">#F0E7D6</color>
 </resources>
